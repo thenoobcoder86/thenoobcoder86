@@ -12,3 +12,6 @@
 
 # 💻Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thenoobcoder86&repo=dio-lab-open-source&theme=tokyonight&show_icons=true)](https://github.com/thenoobcoder86/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thenoobcoder86&repo=js-developer-pokedex&theme=tokyonight&show_icons=true)](https://github.com/thenoobcoder86/js-developer-pokedex)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thenoobcoder86&repo=angular-blog&theme=tokyonight&show_icons=true)](https://github.com/thenoobcoder86/angular-blog)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thenoobcoder86&repo=angular-psn-store-cloneg&theme=tokyonight&show_icons=true)](https://github.com/thenoobcoder86/angular-psn-store-clone)
